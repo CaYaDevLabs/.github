@@ -3,7 +3,7 @@
     <img
       src="./assets/cayadev-labs-logo.svg"
       alt="CaYaDev Labs"
-      width="420"
+      width="120"
     />
   </a>
 </p>
