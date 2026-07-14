@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://labs.cayadev.com">
     <img
-      src="./assets/cayadev-labs-logo.png"
+      src="./assets/cayadev-labs-logo.svg"
       alt="CaYaDev Labs"
       width="420"
     />
